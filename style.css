@@ -4,7 +4,7 @@
     margin: 0;
 }
 h1 {
-    color: purple;
+    color: rgb(228, 63, 228);
     font-family: serif;
     margin-bottom: 10px;
 }
@@ -27,7 +27,7 @@ h1 {
 
 .nav a {
 color: white;
-background-color: #115427;
+background-color: #15b54a;
 padding: 5px;
 border-radius: 3px;
 text-decoration: none;
